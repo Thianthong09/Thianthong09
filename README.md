@@ -3,7 +3,9 @@
 - 👋 I'm ທຽນທອງ <br/>
 - 👀 I’m interested in ພາສາຄອມພິວເຕີ<br/>
 - 🌱 I’m currently pursuing Programming languages.<br/>
-Social Media:<br/><br/>
+
+
+Social Media:<br/>
 <a href="https://www.facebook.com/thian.thong.09">
   <img align="left" alt="thianthong | facebook" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/facebook.svg" />
 </a>
