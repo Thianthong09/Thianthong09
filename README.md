@@ -4,9 +4,7 @@
 - 👀 I'm interested in Programming Languages<br/>
 
 <h4>Social Media:</h4>
-<a href="https://www.facebook.com/thian.thong.09">
-  <img align="left" alt="thianthong | facebook" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/facebook.svg" />
-</a>
+
 <a href="https://twitter.com/thianthong09">
   <img align="left" alt="thianthong | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
