@@ -1,7 +1,11 @@
-### Hi, There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### ສະບາຍດີ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 👋 I'm Thianthong <br/>
-- 👀 I'm interested in Programming Languages<br/>
+
+
+👋 Hello Everyone. Let me introduce myself, my name is <a href=""> THIAN </a>
+I'm twenty years old. I'm a student at luangprabang Technical-Vocational college.<br>
+My field of study is Business Administration My majoring in IT year 2 <br> I'm Lao My ethnic group is Laoloum <br><br>
+👀 I'm interested in Back-End Development<br/>
 
 <h4>Social Media:</h4>
 
@@ -12,11 +16,7 @@
   <img align="left" alt="thianthong | github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
 </a></br></br>
 
-<details>
+<!-- <details>
   <summary><b>Skills</b></summary><br>
 
-[![html](https://img.shields.io/badge/html-0.5-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
-[![css](https://img.shields.io/badge/css-0.5-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
-[![javascript](https://img.shields.io/badge/javascript-0.1-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
-
-</details>
+</details> -->
