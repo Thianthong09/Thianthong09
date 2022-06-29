@@ -17,6 +17,10 @@ My field of study is Business Administration My majoring in IT year 2 <br> I'm L
   <img align="left" alt="thianthong | github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
 </a></br></br>
 
+[Facebook](https://www.facebook.com/thian.thong.09/)
+</br>
+[Whatsapp](https://wa.me/02078643395)
+
 <!-- <details>
   <summary><b>Skills</b></summary><br>
 
