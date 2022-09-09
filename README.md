@@ -1,8 +1,10 @@
 ### ສະບາຍດີ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div align='center'>
+
 [![GitHub Thianthong09](https://img.shields.io/github/followers/Thianthong09?label=follow&style=social)](https://github.com/Thianthong09)
 [![Twitter: thianthong09](https://img.shields.io/twitter/follow/thianthong09?style=social)](https://twitter.com/thianthong09)
+
 </div>
 
 
@@ -20,9 +22,13 @@ My field of study is Business Administration My majoring in IT year 2 <br> I'm L
 <a href="https://github.com/Thianthong09">
   <img align="left" alt="thianthong | github" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/github.svg" />
 </a></br></br>
+
 [Whatsapp](https://wa.me/02078643395)
+
 <div align='center'>
+
 ![it's me](Thian.png)
+
 </div>
 <div align='center'>
     Thank you!❤️
