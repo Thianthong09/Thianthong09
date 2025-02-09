@@ -25,11 +25,11 @@ My field of study is Business Administration My majoring in IT year 2 <br> I'm L
 
 [Whatsapp](https://wa.me/02078643395)
 
-<div align='center'>
+``<div align='center'>``
 
-![it's me](Thian.png)
+``![it's me](Thian.png)``
 
-</div>
+``</div>``
 <div align='center'>
     Thank you!❤️
 </div>
